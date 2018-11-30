@@ -14,3 +14,4 @@ export const makeGuess = guess => ({
     type: MAKE_GUESS,
     guess
 });
+
